@@ -1,4 +1,4 @@
-public abstract class Persona extends Targeta{
+public class Persona extends Targeta{
     protected String email;
 
     public Persona(String email, String nombre, String apellido, int dni){
